@@ -1,0 +1,21 @@
+var NAVTREEINDEX0 =
+{
+"Boot.html":[4],
+"Console.html":[3],
+"Credits.html":[12],
+"Development.html":[11],
+"FAQ.html":[8],
+"FDL.html":[12,1],
+"GPL.html":[12,2],
+"GUI.html":[2],
+"Installation.html":[1],
+"Introduction.html":[0],
+"LGPL_3_0.html":[12,0],
+"Reports.html":[6],
+"Schedule.html":[5],
+"Tips.html":[7],
+"Translation.html":[10],
+"Troubleshooting.html":[9],
+"index.html":[],
+"pages.html":[]
+};
