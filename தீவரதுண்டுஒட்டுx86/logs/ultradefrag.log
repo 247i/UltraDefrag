@@ -1,0 +1,17 @@
+﻿~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  UltraDefrag 7.1.4 log file
+  Windows NT 10.0 (x86)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+  If you'd like to report a bug, attach this file to your bug report please:
+
+  https://sourceforge.net/tracker/?group_id=199532&atid=969870
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+2023-09-18 22:42:39.410 INFO:  winx_set_dbg_log: log_path = \??\C:\அறி\Apps\மேலும்\இறுதிதுண்டுஒட்டு\தீவரதுண்டுஒட்டுx86\logs\ultradefrag.log
+2023-09-18 22:42:39.410 INFO:  Utils::GaRequest: downloading http://www.google-analytics.com/__utm.gif?utmwv=4.6.5&utmn=595014499&utmhn=ultradefrag.sourceforge.net&utmhid=1919236034&utmr=-&utmp=/appstat/gui-x86.html&utmac=UA-15890458-1&utmcc=__utma%3D879696975.1047277707.1695057159.1695057159.1695057159.50%3B%2B__utmz%3D879696975.1695057159.27.2.utmcsr%3Dgoogle.com%7Cutmccn%3D(referral)%7Cutmcmd%3Dreferral%7Cutmcct%3D%2F%3B
+2023-09-18 22:42:39.420 ERROR: MainFrame::ReadUserPreferences: C:\அறி\Apps\மேலும்\இறுதிதுண்டுஒட்டு\தீவரதுண்டுஒட்டுx86\conf\options.lua file not found
+2023-09-18 22:42:39.420 ERROR: winx_getenv: cannot query UD_LOG_FILE_PATH: 0xc0000100 status: The system could not find the environment option that was entered.  
